@@ -15,10 +15,9 @@
 <h3 align="center">How to reach me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/-liamgilmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liamgilmore" height="40" width="40" /></a>
-
 <a href="https://discord.gg/#8088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8088" height="40" width="40" /></a>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=gmail94&show_icons=true&locale=en&layout=compact" alt="liamGilmore" /></a>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmail94&show_icons=true&locale=en&layout=compact" alt="liamGilmore" /></p>
 </p>
 
