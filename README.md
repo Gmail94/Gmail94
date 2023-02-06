@@ -3,9 +3,9 @@
 
 - 🏆 I recently graduated from **Concordia University's Web Developement Bootcamp.**
 
-- 🔭 I’m currently working on [Eunoia] (https://github.com/Gmail94/Eunoia)
+- 🔭 I’m currently working on Eunoia (https://github.com/Gmail94/Eunoia)
 
-- 👨‍🎓 I’m currently learning **TypeScript**.
+- 👨‍🎓 I’m currently learning **SQL**.
 
 - 📫 How to reach me **liamgilmore1@gmail.com**
 
