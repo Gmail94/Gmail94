@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Eunoia (https://github.com/Gmail94/Eunoia)
 
-- 👨‍🎓 I’m currently learning **SQL**.
+- 👨‍🎓 I’m currently learning **Java**.
 
 - 📫 How to reach me **liamgilmore1@gmail.com**
 
