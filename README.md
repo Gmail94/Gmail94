@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **liamgilmore1@gmail.com**
 
-- liamgilmore.ca
+- Personal Website/ Portfolio (https://liamgilmore.ca)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
